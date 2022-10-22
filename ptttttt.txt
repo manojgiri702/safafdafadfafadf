@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html> 
+<head>
+    <title>Dai👑</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@500;900&display=swap" rel="stylesheet">
+    <link href="main.css" rel="stylesheet">
+
+</head>
+<body link="red" vlink="green" alink="black">
+<!-- 
+  <ul>
+    <li><a class="active" href="#home">Home</a></li>
+    <li><a href="aboutmyself.html">About</a></li>
+    <li><a href="quotes.html">Quotes</a></li>
+    <li><a href="form.html">Sign up</a></li>
+  </ul>
+-->   
+<div class="prabhab"><div></div></div>
+<div style="display: flex;justify-content:center;align-items: center;">
+    <img src="eee.png" alt="Prabhab👑"></div>
+    <h1>I<span class="redText">'</span>M</h1>
+    <h2 class="uppercaseText">Prabhab Tiwari</h2>
+    <h3 class="uppercaseText">Student and soon to be a computer scientist.</h3>
+<p>This page serves as a placeholder who wants to learn about me, Prabhab Tiwari. I'm delighted that you're here! 😄 <br />
+  I am a Grade 9 student who is passionate about everything in Computer Science and expect to become a Computer Scientist in future and working hard for achieving the dream:)<BR>
+</p><br><br><br><br>
+<h6>© Dai👑</h6>
+
+
+</body>
